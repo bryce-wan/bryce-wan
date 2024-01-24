@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![shioisu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shioisu)](https://github.com/shioisu/github-readme-activity-graph)
+[![shioisu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shioisu&theme=react-dark)](https://github.com/shioisu/github-readme-activity-graph)
 
 <!--
 **shioisu/shioisu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
