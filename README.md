@@ -1,6 +1,6 @@
-### Hi there 👋
 [![shioisu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shioisu&theme=react-dark)](https://github.com/shioisu/github-readme-activity-graph)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shioisu&layout=compact)
+
+<p align="right">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shioisu&layout=compact)</p>
 
 <!--
 **shioisu/shioisu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
