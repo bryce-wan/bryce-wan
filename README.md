@@ -1,4 +1,4 @@
-Hello, I am now a three-year undergraduate student at Zhejiang University majoring in control science and engineering.
+Hello, I am now a three-year undergraduate student at Zhejiang University majoring in automation.
 
 <!-- Contribution Activity Graph -->
 <table>
